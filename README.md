@@ -1,2 +1,3 @@
-# sgd-free-energy
+# SGD as Free Energy Minimization: A Thermodynamic View on Neural Network Training
+
 Source code for paper "SGD as Free Energy Minimization: A Thermodynamic View on Neural Network Training"
